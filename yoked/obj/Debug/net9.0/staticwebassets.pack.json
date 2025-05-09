@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\backup\\index.css",
+      "PackagePath": "staticwebassets\\backup\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\backup\\index.html",
+      "PackagePath": "staticwebassets\\backup\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\backup\\original_program.cs.txt",
+      "PackagePath": "staticwebassets\\backup\\original_program.cs.txt"
+    },
+    {
+      "Id": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.yoked.props",
+      "PackagePath": "build\\yoked.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.yoked.props",
+      "PackagePath": "buildMultiTargeting\\yoked.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.yoked.props",
+      "PackagePath": "buildTransitive\\yoked.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.yoked.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.yoked.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
