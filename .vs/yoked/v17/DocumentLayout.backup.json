@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcannell\\source\\repos\\yoked\\yoked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcannell\\source\\repos\\yoked\\yoked\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "yoked\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Properties\\launchSettings.json",
-              "RelativeToolTip": "yoked\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T15:26:02.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Program.cs",
               "RelativeDocumentMoniker": "yoked\\Program.cs",
-              "ToolTip": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Program.cs",
-              "RelativeToolTip": "yoked\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Program.cs*",
+              "RelativeToolTip": "yoked\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:09:07.176Z",
+              "WhenOpened": "2025-05-09T17:49:47.964Z",
               "EditorCaption": ""
             }
           ]
