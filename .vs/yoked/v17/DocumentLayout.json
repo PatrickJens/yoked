@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pcannell\\source\\repos\\yoked\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcannell\\source\\repos\\yoked\\yoked\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcannell\\source\\repos\\yoked\\yoked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "yoked\\Controllers\\IndexController.cs",
+              "ToolTip": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Controllers\\IndexController.cs*",
+              "RelativeToolTip": "yoked\\Controllers\\IndexController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T21:10:20.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "original_program.cs.txt",
               "DocumentMoniker": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\backup\\original_program.cs.txt",
               "RelativeDocumentMoniker": "yoked\\wwwroot\\backup\\original_program.cs.txt",
@@ -38,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Program.cs",
               "RelativeDocumentMoniker": "yoked\\Program.cs",
               "ToolTip": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Program.cs",
               "RelativeToolTip": "yoked\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T17:49:47.964Z",
               "EditorCaption": ""
