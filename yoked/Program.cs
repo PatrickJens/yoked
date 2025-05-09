@@ -5,27 +5,28 @@ namespace yoked
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            var app = builder.Build();
             /* Builder Adds Injected Services */
+            var app = builder.Build();
+            //Routing
+            app.UseRouting();
 
-            
-            app.Run( async ( HttpContext context) =>
+            //Creating Endpoints
+            app.UseEndpoints(endpoints =>
             {
-                StreamReader reader = new StreamReader(context.Request.Body);
-                String body = await reader.ReadToEndAsync();
-                context.Response.Headers["Content-type"] = "text/html";
-                if ( context.Request.Method == "POST" && context.Request.Query.ContainsKey("id"))
+                endpoints.MapGet("/map1", async (HttpContext context) =>
                 {
-                    String id = context.Request.Query["id"];
-                    await context.Response.WriteAsync($"<p>{id}<p>");
-                }
-                String path = context.Request.Path;
-                String method = context.Request.Method;
-                await context.Response.WriteAsync($"<p>{path}<p>");
-                await context.Response.WriteAsync($"<p>{method}<p>");
-                
-            });
+                    await context.Response.WriteAsync("In Map 1");
+                });
+                endpoints.MapPost("/map2", async (HttpContext context) =>
+                {
+                    await context.Response.WriteAsync("In Map 2");
+                });
 
+            });
+            app.Run(async context =>
+            {
+                await context.Response.WriteAsync($"Request received at {context.Request.Path}");
+            });
             app.Run();
         }
     }
