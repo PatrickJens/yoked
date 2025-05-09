@@ -1,0 +1,32 @@
+{
+  "profiles": {
+    /* Use HTTPS only */
+    "https": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "home_message": "Hello World!"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:1000;"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        
+      }
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:59481/",
+      "sslPort": 44305
+    }
+  }
+}
