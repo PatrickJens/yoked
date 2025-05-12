@@ -1,8 +1,10 @@
-C:\Users\pcannell\source\repos\yoked\yoked\wwwroot\backup\original_program.cs.txt
-C:\Users\pcannell\source\repos\yoked\yoked\wwwroot\backup\index.html
-C:\Users\pcannell\source\repos\yoked\yoked\wwwroot\favicon.ico
-C:\Users\pcannell\source\repos\yoked\yoked\wwwroot\backup\index.css
+C:\Users\pcann\Projects\yoked\yoked\wwwroot\backup\original_program.cs.txt
+C:\Users\pcann\Projects\yoked\yoked\wwwroot\backup\index.html
+C:\Users\pcann\Projects\yoked\yoked\wwwroot\favicon.ico
+C:\Users\pcann\Projects\yoked\yoked\wwwroot\backup\index.css
+C:\Users\pcann\Projects\yoked\yoked\wwwroot\css\Index.css
 wwwroot\backup\index.css
 wwwroot\backup\index.html
 wwwroot\backup\original_program.cs.txt
+wwwroot\css\Index.css
 wwwroot\favicon.ico

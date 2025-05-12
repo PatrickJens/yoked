@@ -1,17 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pcannell\\source\\repos\\yoked\\",
+  "WorkspaceRootPath": "C:\\Users\\pcann\\Projects\\yoked\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcannell\\source\\repos\\yoked\\yoked\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcann\\projects\\yoked\\yoked\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcannell\\source\\repos\\yoked\\yoked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcann\\projects\\yoked\\yoked\\views\\index\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\views\\index\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcann\\projects\\yoked\\yoked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\backup\\original_program.cs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcann\\projects\\yoked\\yoked\\views\\index\\z.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\views\\index\\z.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcann\\projects\\yoked\\yoked\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|c:\\users\\pcann\\projects\\yoked\\yoked\\wwwroot\\backup\\original_program.cs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9EB905A3-B261-4326-9201-8553C5F0DA8F}|yoked\\yoked.csproj|solutionrelative:yoked\\wwwroot\\backup\\original_program.cs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -31,37 +43,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IndexController.cs",
-              "DocumentMoniker": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Controllers\\IndexController.cs",
-              "RelativeDocumentMoniker": "yoked\\Controllers\\IndexController.cs",
-              "ToolTip": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Controllers\\IndexController.cs",
-              "RelativeToolTip": "yoked\\Controllers\\IndexController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T21:10:20.128Z",
+              "Title": "Index.css",
+              "DocumentMoniker": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\wwwroot\\css\\Index.css",
+              "RelativeDocumentMoniker": "yoked\\wwwroot\\css\\Index.css",
+              "ToolTip": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\wwwroot\\css\\Index.css",
+              "RelativeToolTip": "yoked\\wwwroot\\css\\Index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-11T23:53:28.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "original_program.cs.txt",
-              "DocumentMoniker": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\backup\\original_program.cs.txt",
-              "RelativeDocumentMoniker": "yoked\\wwwroot\\backup\\original_program.cs.txt",
-              "ToolTip": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\backup\\original_program.cs.txt",
-              "RelativeToolTip": "yoked\\wwwroot\\backup\\original_program.cs.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-09T20:33:10.286Z"
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\Views\\Index\\Index.cshtml",
+              "RelativeDocumentMoniker": "yoked\\Views\\Index\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\Views\\Index\\Index.cshtml",
+              "RelativeToolTip": "yoked\\Views\\Index\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T23:52:07.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "original_program.cs.txt",
+              "DocumentMoniker": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\wwwroot\\backup\\original_program.cs.txt",
+              "RelativeDocumentMoniker": "yoked\\wwwroot\\backup\\original_program.cs.txt",
+              "ToolTip": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\wwwroot\\backup\\original_program.cs.txt",
+              "RelativeToolTip": "yoked\\wwwroot\\backup\\original_program.cs.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-11T23:49:49.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "z.html",
+              "DocumentMoniker": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\Views\\Index\\z.html",
+              "RelativeDocumentMoniker": "yoked\\Views\\Index\\z.html",
+              "ToolTip": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\Views\\Index\\z.html",
+              "RelativeToolTip": "yoked\\Views\\Index\\z.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-11T23:47:09.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\Controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "yoked\\Controllers\\IndexController.cs",
+              "ToolTip": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\Controllers\\IndexController.cs",
+              "RelativeToolTip": "yoked\\Controllers\\IndexController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:45:30.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\Program.cs",
               "RelativeDocumentMoniker": "yoked\\Program.cs",
-              "ToolTip": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Program.cs",
+              "ToolTip": "C:\\Users\\pcann\\Projects\\yoked\\yoked\\Program.cs",
               "RelativeToolTip": "yoked\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T17:49:47.964Z",
               "EditorCaption": ""
