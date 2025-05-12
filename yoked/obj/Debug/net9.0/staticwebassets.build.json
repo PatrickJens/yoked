@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m/lLEjeqAIEd+2PHVhkbLsI3OlE0O+sW7luc2NWAyus=",
+  "Hash": "ihpE2DLAiGQIsje7BAn1s2HAyCUM6fgnWqJX1CdVhNQ=",
   "Source": "yoked",
   "BasePath": "_content/yoked",
   "Mode": "Default",
@@ -101,6 +101,27 @@
       "OriginalItemSpec": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\backup\\index.css"
     },
     {
+      "Identity": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-vpsj32j44x.gz",
+      "SourceId": "yoked",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/yoked",
+      "RelativePath": "css/Index#[.{fingerprint=vpsj32j44x}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\css\\Index.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sgfqvzaytu",
+      "Integrity": "NCTO0OWhz+WCSBpTWXAfAfNm38HFe8+nsALFvUwHaZI=",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\css\\Index.css"
+    },
+    {
       "Identity": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\backup\\index.css",
       "SourceId": "yoked",
       "SourceType": "Discovered",
@@ -164,6 +185,27 @@
       "OriginalItemSpec": "wwwroot\\backup\\original_program.cs.txt"
     },
     {
+      "Identity": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\css\\Index.css",
+      "SourceId": "yoked",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\",
+      "BasePath": "_content/yoked",
+      "RelativePath": "css/Index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vpsj32j44x",
+      "Integrity": "3YzgvuiJwI/zc83wDt59N+3TZBXdGogKT10VKLCN0M0=",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Index.css"
+    },
+    {
       "Identity": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\favicon.ico",
       "SourceId": "yoked",
       "SourceType": "Discovered",
@@ -211,7 +253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 20:56:36 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -264,7 +306,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 20:56:36 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -301,7 +343,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 20:56:36 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -348,7 +390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 21:20:17 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -409,7 +451,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 21:20:17 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -454,7 +496,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 21:20:17 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -509,7 +551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 20:56:36 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -570,7 +612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 20:56:36 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -615,7 +657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 20:56:36 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -670,7 +712,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 21:20:17 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -723,7 +765,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 21:20:17 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -760,7 +802,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 21:20:17 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -807,7 +849,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:17:02 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -868,7 +910,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:17:02 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -913,7 +955,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:17:02 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -968,7 +1010,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:17:02 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1021,7 +1063,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:17:02 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1058,7 +1100,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:17:02 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1077,6 +1119,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-6vwZCLT6peRD9DMAxoXGB4Rcy5E9hkpgDZZCdIP86K0="
+        }
+      ]
+    },
+    {
+      "Route": "css/Index.css",
+      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-vpsj32j44x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004608294931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NCTO0OWhz+WCSBpTWXAfAfNm38HFe8+nsALFvUwHaZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3YzgvuiJwI/zc83wDt59N+3TZBXdGogKT10VKLCN0M0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3YzgvuiJwI/zc83wDt59N+3TZBXdGogKT10VKLCN0M0="
+        }
+      ]
+    },
+    {
+      "Route": "css/Index.css",
+      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\css\\Index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3YzgvuiJwI/zc83wDt59N+3TZBXdGogKT10VKLCN0M0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3YzgvuiJwI/zc83wDt59N+3TZBXdGogKT10VKLCN0M0="
+        }
+      ]
+    },
+    {
+      "Route": "css/Index.css.gz",
+      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-vpsj32j44x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NCTO0OWhz+WCSBpTWXAfAfNm38HFe8+nsALFvUwHaZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NCTO0OWhz+WCSBpTWXAfAfNm38HFe8+nsALFvUwHaZI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Index.vpsj32j44x.css",
+      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-vpsj32j44x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004608294931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NCTO0OWhz+WCSBpTWXAfAfNm38HFe8+nsALFvUwHaZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3YzgvuiJwI/zc83wDt59N+3TZBXdGogKT10VKLCN0M0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vpsj32j44x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3YzgvuiJwI/zc83wDt59N+3TZBXdGogKT10VKLCN0M0="
+        }
+      ]
+    },
+    {
+      "Route": "css/Index.vpsj32j44x.css",
+      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\css\\Index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3YzgvuiJwI/zc83wDt59N+3TZBXdGogKT10VKLCN0M0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vpsj32j44x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3YzgvuiJwI/zc83wDt59N+3TZBXdGogKT10VKLCN0M0="
+        }
+      ]
+    },
+    {
+      "Route": "css/Index.vpsj32j44x.css.gz",
+      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-vpsj32j44x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NCTO0OWhz+WCSBpTWXAfAfNm38HFe8+nsALFvUwHaZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 20:50:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vpsj32j44x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Index.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NCTO0OWhz+WCSBpTWXAfAfNm38HFe8+nsALFvUwHaZI="
         }
       ]
     },
@@ -1105,7 +1445,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:06:15 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1166,7 +1506,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:06:15 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1211,7 +1551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:06:15 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1266,7 +1606,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:06:15 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1319,7 +1659,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:06:15 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1356,7 +1696,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 15:06:15 GMT"
+          "Value": "Mon, 12 May 2025 20:50:51 GMT"
         },
         {
           "Name": "Cache-Control",

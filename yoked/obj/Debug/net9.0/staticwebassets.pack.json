@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\backup\\original_program.cs.txt"
     },
     {
+      "Id": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
       "Id": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
