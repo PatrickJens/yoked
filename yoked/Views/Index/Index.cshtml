@@ -12,8 +12,14 @@
             <div id="index-title">yoked</div>
             <input class="index-input" placeholder="Username">
             <input class="index-input" placeholder="Password">
-            <button class="index-btn">Login</button>
-            <button class="index-btn">Sign Up</button>
+            <form method="get" action="">
+                <input class="index-btn" type="submit" value="Login" />
+            </form>
+            <form method="get" action="/Index/RedirectToCreateUser/">
+                <input class="index-btn" type="submit" value="Sign Up" />
+            </form>
+            
+                
         </div>
     </div>
 </body>

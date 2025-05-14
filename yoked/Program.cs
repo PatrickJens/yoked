@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using yoked.Data;
+
 namespace yoked
 {
     public class Program
@@ -6,8 +9,13 @@ namespace yoked
         {
             var builder = WebApplication.CreateBuilder(args);
             /* Builder Adds Injected Services */
-            builder.Services.AddControllers();
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<YokedDbContext>(options =>
+            
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+            );
+            
+
             var app = builder.Build();
             app.UseRouting();
             app.UseStaticFiles();

@@ -10,5 +10,10 @@ namespace yoked.Controllers
             return View();
             
         }
+        [Route("/Index/RedirectToCreateUser/")]
+        public String RedirectToCreateUser()
+        {
+            return "Create user page";
+        }
     }
 }
