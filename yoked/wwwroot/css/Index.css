@@ -2,8 +2,8 @@ body{
     background-color: #0A84FF;
 }
 
-#index-title{
-    font-size: 15vh;
+#app-title{
+    font-size: 100px;
     font-weight: bolder;
     color: #FFD60A;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

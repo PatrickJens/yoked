@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hs3hp0JKfG9EQF7o288fZhRBy7gMFqTp4F0AvC9cAx8=",
+  "Hash": "bH8c3uQ10WZEMY/fuuulPswtkq5rRqNwYuGnzpCl5IY=",
   "Source": "yoked",
   "BasePath": "_content/yoked",
   "Mode": "Default",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\backup\\index.css"
     },
     {
-      "Identity": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-cgce0gjwwc.gz",
+      "Identity": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-amandtu2gt.gz",
       "SourceId": "yoked",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/yoked",
-      "RelativePath": "css/Index#[.{fingerprint=cgce0gjwwc}]?.css.gz",
+      "RelativePath": "css/Index#[.{fingerprint=amandtu2gt}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +115,8 @@
       "RelatedAsset": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\css\\Index.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y2n2us3yi8",
-      "Integrity": "Wl/ACm2TKrJKPDaHKYuQ1V4zftMGuBF0Pl1/jpsQVP0=",
+      "Fingerprint": "7iamcdgy6u",
+      "Integrity": "rz4hEAy9AxYXr89Usg7hBcRluaHTpasmB6NPafloL5g=",
       "CopyToOutputDirectory": "Always",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\css\\Index.css"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cgce0gjwwc",
-      "Integrity": "dFnV3uqMB9mVjLQowlXbkmdNl3PjqogRuor3p56GPcI=",
+      "Fingerprint": "amandtu2gt",
+      "Integrity": "grZWVKw89DIoN8wQUQImDlgBD25z+0YA90rP+d0ThuY=",
       "CopyToOutputDirectory": "Always",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Index.css"
@@ -1123,13 +1123,13 @@
       ]
     },
     {
-      "Route": "css/Index.cgce0gjwwc.css",
-      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-cgce0gjwwc.gz",
+      "Route": "css/Index.amandtu2gt.css",
+      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-amandtu2gt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004464285714"
+          "Quality": "0.004444444444"
         }
       ],
       "ResponseHeaders": [
@@ -1139,15 +1139,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "223"
+          "Value": "224"
         },
         {
           "Name": "ETag",
-          "Value": "\"Wl/ACm2TKrJKPDaHKYuQ1V4zftMGuBF0Pl1/jpsQVP0=\""
+          "Value": "\"rz4hEAy9AxYXr89Usg7hBcRluaHTpasmB6NPafloL5g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:01:49 GMT"
+          "Value": "Thu, 15 May 2025 21:50:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1167,13 +1167,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dFnV3uqMB9mVjLQowlXbkmdNl3PjqogRuor3p56GPcI=\""
+          "Value": "W/\"grZWVKw89DIoN8wQUQImDlgBD25z+0YA90rP+d0ThuY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cgce0gjwwc"
+          "Value": "amandtu2gt"
         },
         {
           "Name": "label",
@@ -1181,12 +1181,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dFnV3uqMB9mVjLQowlXbkmdNl3PjqogRuor3p56GPcI="
+          "Value": "sha256-grZWVKw89DIoN8wQUQImDlgBD25z+0YA90rP+d0ThuY="
         }
       ]
     },
     {
-      "Route": "css/Index.cgce0gjwwc.css",
+      "Route": "css/Index.amandtu2gt.css",
       "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\wwwroot\\css\\Index.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1196,7 +1196,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "304"
+          "Value": "302"
         },
         {
           "Name": "Content-Type",
@@ -1204,11 +1204,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dFnV3uqMB9mVjLQowlXbkmdNl3PjqogRuor3p56GPcI=\""
+          "Value": "\"grZWVKw89DIoN8wQUQImDlgBD25z+0YA90rP+d0ThuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:01:49 GMT"
+          "Value": "Thu, 15 May 2025 21:50:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1218,7 +1218,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cgce0gjwwc"
+          "Value": "amandtu2gt"
         },
         {
           "Name": "label",
@@ -1226,13 +1226,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dFnV3uqMB9mVjLQowlXbkmdNl3PjqogRuor3p56GPcI="
+          "Value": "sha256-grZWVKw89DIoN8wQUQImDlgBD25z+0YA90rP+d0ThuY="
         }
       ]
     },
     {
-      "Route": "css/Index.cgce0gjwwc.css.gz",
-      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-cgce0gjwwc.gz",
+      "Route": "css/Index.amandtu2gt.css.gz",
+      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-amandtu2gt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1241,7 +1241,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "223"
+          "Value": "224"
         },
         {
           "Name": "Content-Type",
@@ -1249,11 +1249,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wl/ACm2TKrJKPDaHKYuQ1V4zftMGuBF0Pl1/jpsQVP0=\""
+          "Value": "\"rz4hEAy9AxYXr89Usg7hBcRluaHTpasmB6NPafloL5g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:01:49 GMT"
+          "Value": "Thu, 15 May 2025 21:50:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1271,7 +1271,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cgce0gjwwc"
+          "Value": "amandtu2gt"
         },
         {
           "Name": "label",
@@ -1279,18 +1279,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wl/ACm2TKrJKPDaHKYuQ1V4zftMGuBF0Pl1/jpsQVP0="
+          "Value": "sha256-rz4hEAy9AxYXr89Usg7hBcRluaHTpasmB6NPafloL5g="
         }
       ]
     },
     {
       "Route": "css/Index.css",
-      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-cgce0gjwwc.gz",
+      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-amandtu2gt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004464285714"
+          "Quality": "0.004444444444"
         }
       ],
       "ResponseHeaders": [
@@ -1300,15 +1300,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "223"
+          "Value": "224"
         },
         {
           "Name": "ETag",
-          "Value": "\"Wl/ACm2TKrJKPDaHKYuQ1V4zftMGuBF0Pl1/jpsQVP0=\""
+          "Value": "\"rz4hEAy9AxYXr89Usg7hBcRluaHTpasmB6NPafloL5g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:01:49 GMT"
+          "Value": "Thu, 15 May 2025 21:50:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1328,13 +1328,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"dFnV3uqMB9mVjLQowlXbkmdNl3PjqogRuor3p56GPcI=\""
+          "Value": "W/\"grZWVKw89DIoN8wQUQImDlgBD25z+0YA90rP+d0ThuY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dFnV3uqMB9mVjLQowlXbkmdNl3PjqogRuor3p56GPcI="
+          "Value": "sha256-grZWVKw89DIoN8wQUQImDlgBD25z+0YA90rP+d0ThuY="
         }
       ]
     },
@@ -1349,7 +1349,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "304"
+          "Value": "302"
         },
         {
           "Name": "Content-Type",
@@ -1357,11 +1357,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dFnV3uqMB9mVjLQowlXbkmdNl3PjqogRuor3p56GPcI=\""
+          "Value": "\"grZWVKw89DIoN8wQUQImDlgBD25z+0YA90rP+d0ThuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:01:49 GMT"
+          "Value": "Thu, 15 May 2025 21:50:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1371,13 +1371,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dFnV3uqMB9mVjLQowlXbkmdNl3PjqogRuor3p56GPcI="
+          "Value": "sha256-grZWVKw89DIoN8wQUQImDlgBD25z+0YA90rP+d0ThuY="
         }
       ]
     },
     {
       "Route": "css/Index.css.gz",
-      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-cgce0gjwwc.gz",
+      "AssetFile": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\obj\\Debug\\net9.0\\compressed\\mmeyj0j3ie-amandtu2gt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1386,7 +1386,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "223"
+          "Value": "224"
         },
         {
           "Name": "Content-Type",
@@ -1394,11 +1394,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wl/ACm2TKrJKPDaHKYuQ1V4zftMGuBF0Pl1/jpsQVP0=\""
+          "Value": "\"rz4hEAy9AxYXr89Usg7hBcRluaHTpasmB6NPafloL5g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 14 May 2025 21:01:49 GMT"
+          "Value": "Thu, 15 May 2025 21:50:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1416,7 +1416,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wl/ACm2TKrJKPDaHKYuQ1V4zftMGuBF0Pl1/jpsQVP0="
+          "Value": "sha256-rz4hEAy9AxYXr89Usg7hBcRluaHTpasmB6NPafloL5g="
         }
       ]
     },

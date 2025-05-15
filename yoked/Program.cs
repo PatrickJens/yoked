@@ -8,6 +8,7 @@ namespace yoked
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
             /* Builder Adds Injected Services */
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<YokedDbContext>(options =>

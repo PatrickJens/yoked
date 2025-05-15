@@ -23,3 +23,7 @@ build_property.EnableCodeStyleSeverity =
 [C:/Users/pcannell/source/repos/yoked/yoked/Views/Index/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pcannell/source/repos/yoked/yoked/Views/Index/RegisterUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcUmVnaXN0ZXJVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
