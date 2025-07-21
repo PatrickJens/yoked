@@ -21,6 +21,18 @@ namespace yoked
             app.UseRouting();
             app.UseStaticFiles();
             app.MapControllers();
+            app.Run( async(HttpContext context) =>
+            {
+                string path = context.Request.Path;
+                string method = context.Request.Method;
+                context.Response.StatusCode = 200;
+                context.Response.Headers["Is_Prod"] = "not_prod";
+                await context.Response.WriteAsync("World");
+                await context.Response.WriteAsync("Hello");
+                await context.Response.WriteAsync($"<p>{path}</p>");
+                await context.Response.WriteAsync($"<br>{method}");
+
+            });
             app.Run();
         }
     }
