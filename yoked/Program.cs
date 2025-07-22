@@ -23,14 +23,16 @@ namespace yoked
             app.MapControllers();
             app.Run( async(HttpContext context) =>
             {
-                string path = context.Request.Path;
-                string method = context.Request.Method;
-                context.Response.StatusCode = 200;
-                context.Response.Headers["Is_Prod"] = "not_prod";
-                await context.Response.WriteAsync("World");
-                await context.Response.WriteAsync("Hello");
-                await context.Response.WriteAsync($"<p>{path}</p>");
-                await context.Response.WriteAsync($"<br>{method}");
+                await context.Response.WriteAsync($"This is a default response body\n");
+                if (context.Request.Query.ContainsKey("name") && context.Request.Query.ContainsKey("day"))
+                {
+                    string name = context.Request.Query["name"];
+                    string day = context.Request.Query["day"];
+                    await context.Response.WriteAsync($"Name is {name}\n");
+                    await context.Response.WriteAsync($"Day is {day}\n");
+                }
+                
+
 
             });
             app.Run();

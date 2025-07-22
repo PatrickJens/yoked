@@ -46,8 +46,7 @@
               "RelativeToolTip": "yoked\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-21T19:42:49.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:42:49.747Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "yoked\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-21T19:34:52.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:34:52.955Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "yoked\\Program.cs",
               "ToolTip": "C:\\Users\\pcannell\\source\\repos\\yoked\\yoked\\Program.cs",
               "RelativeToolTip": "yoked\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T19:29:10.529Z",
               "EditorCaption": ""
@@ -85,8 +83,7 @@
               "RelativeToolTip": "yoked\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T18:27:51.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T18:27:51.299Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "yoked\\Data\\YokedDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T18:21:16.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T18:21:16.857Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "yoked\\Views\\Index\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-21T15:58:45.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T15:58:45.689Z"
             }
           ]
         }
