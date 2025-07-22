@@ -24,16 +24,9 @@ namespace yoked
             app.Run( async(HttpContext context) =>
             {
                 await context.Response.WriteAsync($"This is a default response body\n");
-                if (context.Request.Query.ContainsKey("name") && context.Request.Query.ContainsKey("day"))
-                {
-                    string name = context.Request.Query["name"];
-                    string day = context.Request.Query["day"];
-                    await context.Response.WriteAsync($"Name is {name}\n");
-                    await context.Response.WriteAsync($"Day is {day}\n");
-                }
-                
-
-
+                StreamReader reader = new StreamReader( context.Request.Body);
+                string body = await reader.ReadToEndAsync();
+                Console.WriteLine(body);
             });
             app.Run();
         }

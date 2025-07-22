@@ -14,16 +14,10 @@ namespace yoked.Entities
         private String Email    { get; set; }
         [Required]
         private String Password { get; set; }
-        [Required]
-        private DateOnly Birthday { get; set; }
-        [Required]
-        private BigInteger Feet { get; set; }
-        [Required]
-        private BigInteger Inches { get; set; }
+
         [Required]
         private BigInteger IsAdmin {  get; set; }
-        [Required]
-        private String Gender { get; set; }
+
 
 
     }
