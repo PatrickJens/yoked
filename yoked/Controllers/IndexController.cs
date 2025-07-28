@@ -10,10 +10,16 @@ namespace yoked.Controllers
             return View();
             
         }
-        [Route("/Index/RedirectToCreateUser/")]
-        public String RedirectToCreateUser()
+        [Route("/Index/Login/")]
+        public String Login()
         {
-            return "Create user page";
+            return "Main App";
         }
+        [Route("/Index/CreateUser/")]
+        public IActionResult CreateUser()
+        {
+            return View("CreateUser");
+        }
+
     }
 }

@@ -15,19 +15,10 @@ namespace yoked
             
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
             );
-            
-
             var app = builder.Build();
             app.UseRouting();
             app.UseStaticFiles();
             app.MapControllers();
-            app.Run( async(HttpContext context) =>
-            {
-                await context.Response.WriteAsync($"This is a default response body\n");
-                StreamReader reader = new StreamReader( context.Request.Body);
-                string body = await reader.ReadToEndAsync();
-                Console.WriteLine(body);
-            });
             app.Run();
         }
     }

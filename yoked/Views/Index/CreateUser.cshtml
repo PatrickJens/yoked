@@ -1,0 +1,51 @@
+﻿@using yoked
+@using yoked.Entities
+@model User
+
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Yoked</title>
+    <link rel="stylesheet" href="~/css/Index.css">
+</head>
+<body>
+    <div style="display:flex; justify-content: center;border-style:solid">
+            <div id="app-title">yoked</div>
+    </div>
+    <div style="width:35vw;border-style:dashed"
+    >
+        <div style="display:flex; justify-content: center; font-size:25px;margin: 10px 0px 10px 0px">
+            Create A New Account
+        </div>
+        <div style="display:flex; justify-content: space-around;font-size:15px;">
+            <input style="padding:10px;" placeholder="First name" />
+            <input placeholder="Last name" />
+        </div>
+        <div>
+            Birthday
+        </div>
+        <div style="display:flex; justify-content: space-around;">
+            <div>Month</div>
+            <div>Day</div>
+            <div>Year</div>
+        </div>
+        <div>
+            Gender
+        </div>
+        <div style="display:flex; justify-content: space-around;">
+            <div>Male</div>
+            <div>Female</div>
+            <div>Other</div>
+        </div>
+        <div>
+            Email
+        </div>
+        <div>
+            Password
+        </div>
+    </div>
+</body>
+</html>
+
