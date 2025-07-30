@@ -16,7 +16,7 @@
     </div>
     <div style="width:35vw;border-style:dashed"
     >
-        <div style="display:flex; justify-content: center; font-size:25px;margin: 10px 0px 10px 0px">
+        <div style="display:flex; justify-content: center; font-size:25px;margin: 20px 0px 20px 0px">
             Create A New Account
         </div>
         <div style="display:flex; justify-content: space-around;font-size:15px;">
@@ -28,7 +28,7 @@
         </div>
         <div style="display:flex; justify-content: space-around;">
             <div>
-                <select name="birthMonth" data-type="selectors">
+                <select id="birthMonth" name="birthMonth" data-type="selectors">
                     <option value="1">Jan</option>
                     <option value="2">Feb</option>
                     <option value="3">Mar</option>
@@ -44,7 +44,7 @@
                 </select>
             </div>
             <div>
-                <select name="birthDay" data-type="selectors">
+                <select id="birthDay" name="birthDay" data-type="selectors">
                     <option value="1">1</option>
                     <option value="2">2</option>
                     <option value="3">3</option>
@@ -78,25 +78,43 @@
                     <option value="31">31</option>
                 </select>
             </div>
-            <div>Year</div>
+            <div>
+                <select id="birthYear" name="birthYear" data-type="selectors">
+                </select>
+            </div>
+                
         </div>
         <div>
             Gender
         </div>
         <div style="display:flex; justify-content: space-around;">
-            <div>Male</div>
-            <div>Female</div>
-            <div>Other</div>
+            <label>
+                Female
+                <input type="radio" id="gender" name="gender" value="1"/>
+            </label>
+            <label>
+                Male
+                <input type="radio" id="gender" name="gender" value="1" />
+            </label>
+            <label>
+                Other
+                <input type="radio" id="gender" name="gender" value="1" />
+            </label>
+            
         </div>
         <div>
-            Email
+            <input type="text" id="email" name="email" value="" placeholder="Enter email" label="Enter email">
         </div>
         <div>
-            Password
+            <input type="text" id="email" name="email" value="" placeholder="Enter password" label="Enter email">
         </div>
     </div>
 
     <script type="text/javascript" language="javascript" src="~/js/util.js"></script>
+    <script>
+        generateUserBirthYears();
+    </script>
+        
 </body>
 </html>
 

@@ -1,5 +1,13 @@
 ﻿// Autopopulate years on sign-up page
 function generateUserBirthYears() {
+    var birthYearSelect = document.getElementById("birthYear");
     var year = new Date().getFullYear();
-    console.log(year - 1);
+
+    while (year > 1925) {
+        var option = document.createElement("option");
+        option.text = year;
+        option.value = year;
+        birthYearSelect.appendChild(option);
+        year--;
+    }
 }
