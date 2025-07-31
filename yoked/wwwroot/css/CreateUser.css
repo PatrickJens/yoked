@@ -1,0 +1,47 @@
+﻿body {
+    background-color: #0A84FF;
+}
+
+#app-title {
+    font-size: 100px;
+    font-weight: bolder;
+    color: #FFD60A;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.app-title{
+
+}
+
+.form-body {
+    background-color: white;
+    margin: 25px 0px 0px 0px;
+    border-radius: 15px;
+    width: 535px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.form-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.name-reg{
+
+}
+
+..mini-title{
+
+}
+
+.date-reg{
+
+}
+
+.gender-card{
+
+}
+
+.email-reg{
+
+}
