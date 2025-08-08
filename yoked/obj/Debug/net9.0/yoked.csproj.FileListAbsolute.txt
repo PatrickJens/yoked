@@ -203,6 +203,7 @@ C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\scopedcss\bundle\yok
 C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\compressed\8hn93ckh7w-ehx3rxz0qk.gz
 C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\compressed\435crt206b-drnkj03o5u.gz
 C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\compressed\2rtc92e6yh-hwtchlwteq.gz
+C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\compressed\ne4odx21a5-agycxv8xw8.gz
 C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\compressed\mmeyj0j3ie-tcgjw52kzq.gz
 C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\compressed\4z8vi7025j-61n19gt1b8.gz
 C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\compressed\angmkjun81-ntjndwft4p.gz
@@ -217,4 +218,3 @@ C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\refint\yoked.dll
 C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\yoked.pdb
 C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\yoked.genruntimeconfig.cache
 C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\ref\yoked.dll
-C:\Users\pcannell\source\repos\yoked\yoked\obj\Debug\net9.0\compressed\ne4odx21a5-xxeto2e6eg.gz

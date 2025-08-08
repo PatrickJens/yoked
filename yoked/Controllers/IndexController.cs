@@ -20,6 +20,10 @@ namespace yoked.Controllers
         {
             return View("CreateUser");
         }
-
+        [Route("/Index/SubmitUserCreate/")]
+        public String SubmitUserCreate(String firstName, String lastName)
+        {
+            return firstName + "  " + lastName;
+        }
     }
 }

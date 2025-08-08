@@ -14,10 +14,27 @@
 
 }
 
+#index-web-submit {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 6px;
+    width: 175px;
+    border-radius: 5px;
+    border: none;
+    background-color: #00a400;
+    color: #fff;
+    margin: 20px 0px 50px 162.5px
+}
+#create-user-form {
+    display: flex;
+    justify-content: center;
+}
+
 .form-body {
     background-color: white;
     margin: 25px 0px 0px 0px;
-    border-radius: 15px;
+    border-radius: 10px;
     width: 500px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
@@ -33,9 +50,13 @@
 .name-regF {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
-    width:180px;
-    margin: 0px 0px 0px 20px;
+    width: 180px;
+    margin: 0px 0px 15px 20px;
     height: 25px;
+    border-color: #CCD0D5;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 .name-regL {
@@ -44,18 +65,29 @@
     width: 180px;
     margin: 0px 0px 0px 84px;
     height: 25px;
+    border-color: #CCD0D5;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 .mini-title {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 12px;
+    margin: 0px 0px 3px 19px;
+
 }
 
 .date-reg {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     width: 125px;
-    height: 25px;
+    height: 35px;
+    margin: 0px 0px 15px 0px;
+    border-color: #CCD0D5;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 .gender-card {
@@ -63,13 +95,23 @@
     font-size: 15px;
     width: 125px;
     border-style: solid;
-    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 0px 15px 0px;
+    border-color: #CCD0D5;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px
 }
 
 .email-reg {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     height: 25px;
-    margin-left: 18px;
     width: 456px;
+    margin: 0px 0px 15px 18px;
+    border-color: #CCD0D5;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
 }

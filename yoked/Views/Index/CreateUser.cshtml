@@ -10,20 +10,22 @@
     <title>Yoked</title>
     <link rel="stylesheet" href="~/css/CreateUser.css">
 </head>
-<body onload="generateUserBirthYears()">
+<body>
     <div  style="display:flex; justify-content: center;border-style:solid">
-            <div id="app-title">yoked</div>
+            <div id="app-title"></div>
     </div>
-    <div style="display:flex; justify-content: center;">
-
-    
+    <form action="/Index/Test/" method="post">
+        <input name="InputName" />
+        <input type="submit" value="Submit" />
+    </form>
+    <form action="/Index/SubmitUserCreate/" method="post" id ="create-user-form" style="display:flex; justify-content: center;">
         <div class="form-body">
             <div class="form-title">
                 Create A New Account
             </div>
             <div style="display:flex;font-size:35px;font-weight:600">
-                <input  class="name-regF" placeholder="First name" />
-                <input class="name-regL" placeholder="Last name" />
+                <input name="firstName" class="name-regF" placeholder="First name" />
+                <input name="lastName" class="name-regL" placeholder="Last name" />
             </div>
             <div class="mini-title">
                 Birthday
@@ -90,17 +92,17 @@
                 Gender
             </div>
             <div style="display:flex; justify-content: space-around;">
-                <label class="gender-card">
+                <label style=""class="gender-card">
                     Female
-                    <input type="radio" id="gender" name="gender" value="1"/>
+                    <input type="radio" id="gender" name="gender" value="M"/>
                 </label>
                 <label class="gender-card">
                     Male
-                    <input type="radio" id="gender" name="gender" value="1" />
+                    <input type="radio" id="gender" name="gender" value="F" />
                 </label>
                 <label class="gender-card">
                     Other
-                    <input type="radio" id="gender" name="gender" value="1" />
+                    <input type="radio" id="gender" name="gender" value="O" />
                 </label>
             
             </div>
@@ -110,8 +112,9 @@
             <div>
                 <input class="email-reg" type="text" id="email" name="email" value="" placeholder="Enter password" label="Enter email">
             </div>
+            <input id="index-web-submit" name="websubmit "type="submit" value="Sign Up" />
         </div>
-    </div>
+    </form>
     <script type="text/javascript" language="javascript" src="~/js/util.js"></script>
     <script>
         generateUserBirthYears();
