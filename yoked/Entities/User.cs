@@ -16,9 +16,6 @@ namespace yoked.Entities
         private String Password { get; set; }
 
         [Required]
-        private BigInteger IsAdmin {  get; set; }
-
-
-
+        private int IsAdmin {  get; set; }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yoked")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ee904a73db87fcc1ae514124c564cf51344fb0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9659b5c425491fabea8600e97c878bb7a77eb37")]
 [assembly: System.Reflection.AssemblyProductAttribute("yoked")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yoked")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

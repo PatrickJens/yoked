@@ -51,7 +51,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     width: 180px;
-    margin: 0px 0px 15px 20px;
+    margin: 0px 0px 15px 0px;
     height: 25px;
     border-color: #CCD0D5;
     border-width: 1px;
@@ -63,7 +63,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     width: 180px;
-    margin: 0px 0px 0px 84px;
+    margin: 0px 0px 0px 0px;
     height: 25px;
     border-color: #CCD0D5;
     border-width: 1px;
@@ -81,7 +81,7 @@
 .date-reg {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
-    width: 125px;
+    width: 138px;
     height: 35px;
     margin: 0px 0px 15px 0px;
     border-color: #CCD0D5;
@@ -108,7 +108,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     height: 25px;
-    width: 456px;
+    width: 450px;
     margin: 0px 0px 15px 18px;
     border-color: #CCD0D5;
     border-width: 1px;

@@ -14,23 +14,20 @@
     <div  style="display:flex; justify-content: center;border-style:solid">
             <div id="app-title"></div>
     </div>
-    <form action="/Index/Test/" method="post">
-        <input name="InputName" />
-        <input type="submit" value="Submit" />
-    </form>
+
     <form action="/Index/SubmitUserCreate/" method="post" id ="create-user-form" style="display:flex; justify-content: center;">
         <div class="form-body">
             <div class="form-title">
                 Create A New Account
             </div>
-            <div style="display:flex;font-size:35px;font-weight:600">
+            <div style="display:flex;font-size:35px;font-weight:600;justify-content:space-between;padding:0px 19px 0px 19px">
                 <input name="firstName" class="name-regF" placeholder="First name" />
                 <input name="lastName" class="name-regL" placeholder="Last name" />
             </div>
             <div class="mini-title">
                 Birthday
             </div>
-            <div style="display:flex; justify-content: space-around;">
+            <div style="display:flex; justify-content: space-between;padding:0px 19px 0px 19px">
                 <div>
                     <select class="date-reg" id="birthMonth" name="birthMonth" data-type="selectors">
                         <option value="1">Jan</option>
@@ -91,7 +88,7 @@
             <div class="mini-title">
                 Gender
             </div>
-            <div style="display:flex; justify-content: space-around;">
+            <div style="display:flex; justify-content: space-between;padding:0px 19px 0px 19px">
                 <label style=""class="gender-card">
                     Female
                     <input type="radio" id="gender" name="gender" value="M"/>
