@@ -6,6 +6,7 @@ namespace yoked.Entities
     public class User
     {
         [Key]
+        [Required]
         private String UserID { get; set; }
 
         [Required]

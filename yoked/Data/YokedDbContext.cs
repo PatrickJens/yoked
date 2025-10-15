@@ -9,6 +9,6 @@ namespace yoked.Data
         {
 
         }
-        public DbSet<User> Users { get; set; }  
+        public DbSet<User> User { get; set; }  
     }
 }
