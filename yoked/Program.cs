@@ -12,7 +12,6 @@ namespace yoked
             /* Builder Adds Injected Services */
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<YokedDbContext>(options =>
-            
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
             );
             var app = builder.Build();

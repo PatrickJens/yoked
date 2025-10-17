@@ -12,3 +12,9 @@ namespace yoked.Data
         public DbSet<User> User { get; set; }  
     }
 }
+
+
+/*
+DbSet must match table name in db
+
+*/
